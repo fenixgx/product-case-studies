@@ -28,7 +28,7 @@ The goal is to show how I think as an AI full-stack developer and technical foun
 
 ## Case studies
 
-### IAMenu.ai
+### [IAMenu.ai](./iamenu)
 
 AI-powered SaaS product for digital menu management.
 
@@ -45,11 +45,11 @@ AI-powered SaaS product for digital menu management.
 
 **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Supabase, OpenAI, Stripe, Vercel
 
-Status: live product, early-stage validation.
+**Status:** live product, early-stage validation.
 
 ---
 
-### Taski
+### [Taski](./taski)
 
 AI-first productivity manager focused on conversational task management and proactive workflows.
 
@@ -64,11 +64,11 @@ AI-first productivity manager focused on conversational task management and proa
 
 **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Supabase, OpenAI, Telegram integrations
 
-Status: in active development.
+**Status:** in active development.
 
 ---
 
-### Nexus
+### [Nexus](./nexus)
 
 Internal MCP-based system for persistent AI development context.
 
@@ -81,7 +81,7 @@ Internal MCP-based system for persistent AI development context.
 - implementation notes
 - previous decisions and errors
 
-Status: internal infrastructure.
+**Status:** internal infrastructure.
 
 ---
 
